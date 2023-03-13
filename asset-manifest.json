@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/iChatty/static/css/main.06e4e65d.css",
+    "main.js": "/iChatty/static/js/main.d89b9027.js",
+    "index.html": "/iChatty/index.html",
+    "main.06e4e65d.css.map": "/iChatty/static/css/main.06e4e65d.css.map",
+    "main.d89b9027.js.map": "/iChatty/static/js/main.d89b9027.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.06e4e65d.css",
+    "static/js/main.d89b9027.js"
+  ]
+}
